@@ -30,3 +30,7 @@ wheels/
 venv/
 env/
 ENV/
+
+# Data files
+data/*.pcapng
+data/*.pcap.gz
